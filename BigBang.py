@@ -22,7 +22,7 @@ def bigBang(x,y):
 
     return array
 
-#Output
+#Output for 1 to 100
 output = bigBang(1,101)
 print(output)
 
