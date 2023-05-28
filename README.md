@@ -1,11 +1,11 @@
-# KX_Versa_Assessment
-## Cheah Kah Xuan  
+# Cheah Kah Xuan - Versa Assessment
 
+## Project Info
 This project is for my Versa Assessment. 
 
 This program is created to iterate from 1 to 100 and replace the number that is divisible by 3 will be replace by BIG and nu,ber that is divisible by 5 will be replace by BANG. If the number is divisible by both 3 and 5, the number will be replace by BIG BANG.
 
-##Install Python
+## Install Python
 If you have already install Python on your device, you may skip this step.
 
 1. Install Python https://www.python.org/downloads/. 
@@ -14,7 +14,7 @@ If you have already install Python on your device, you may skip this step.
 4. Click Install Now.
 5. Check if Python is installed by going to the CMD and type "python --version.
 
-#Download and run this project
+## Download and run this project
 1. Open the terminal on your preferred IDE.
 2. Paste this in the terminal
 ```
